@@ -34,5 +34,3 @@ python cyberpunk_pyside.py
 ```
 
 If Python is not on your `PATH`, run both commands with the Python executable from your PySide environment. The native module must be built with the same Python version that runs `cyberpunk_pyside.py`.
-# Pyside-OpenGL-LineBarPlot-Demo
-# Pyside-OpenGL-LineBarPlot-Demo
